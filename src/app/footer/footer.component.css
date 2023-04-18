@@ -1,0 +1,37 @@
+footer {
+    margin-top: auto;
+    background-color: #f2f2f2;
+}
+
+.mat-icon {
+    display: inline-block;
+    font-family: 'Material Icons';
+    font-size: 24px;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+    -moz-font-feature-settings: 'liga';
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.contact-info li {
+    margin-bottom: 10px;
+    list-style: none;
+}
+
+.social-icons li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.social-icons a {
+    color: #333;
+    transition: color 0.2s;
+}
+
+.social-icons a:hover {
+    color: #007bff;
+}
