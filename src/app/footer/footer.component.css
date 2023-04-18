@@ -15,7 +15,14 @@ footer {
     direction: ltr;
     -moz-font-feature-settings: 'liga';
     -moz-osx-font-smoothing: grayscale;
+    color: rgb(5, 70, 70);
 }
+
+.contact-info li:hover a {
+    color: rgb(23, 5, 75);
+    background-color: #007bff;
+}
+
 
 .contact-info li {
     margin-bottom: 10px;
@@ -28,7 +35,7 @@ footer {
 }
 
 .social-icons a {
-    color: #333;
+    color: #333333;
     transition: color 0.2s;
 }
 
